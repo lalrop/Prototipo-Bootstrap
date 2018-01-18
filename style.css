@@ -1,0 +1,44 @@
+.logo{
+  width: 10%
+}
+
+#nav{
+  padding-right: 0%;
+}
+
+.bartext{
+  color: green;
+}
+
+.bartext0{
+  margin: 1% 0%;
+}
+.bartext1{
+  padding: 0% 1%;
+}
+
+.cajappal{
+  padding: 0% 2%;
+}
+
+.marcard{
+  margin:3% 1%;
+}
+
+.contacto{
+  font-size: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+.logos{
+  width: 10%;
+}
+
+.mapa{
+  margin: 0%;
+  padding-left: : 15%;
+}
+
+.carousel{
+  margin-top: 15%;
+}
